@@ -1,1 +1,3 @@
-Este es el archivo de curso de Git para pruebas
+Este es el archivo de curso de Git para pruebas.
+Nombre: Santiago Cepeda
+Pais: Ecuador
