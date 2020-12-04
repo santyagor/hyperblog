@@ -3,4 +3,4 @@ Nombre: Santiago Cepeda
 Pais: Ecuador
 
 No soy muy alto.
-Soy programador
+Soy programador de la vida real
