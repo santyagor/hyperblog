@@ -2,4 +2,5 @@ Este es el archivo de curso de Git para pruebas.
 Nombre: Santiago Cepeda
 Pais: Ecuador
 
-No soy muy alto
+No soy muy alto.
+Soy programador
